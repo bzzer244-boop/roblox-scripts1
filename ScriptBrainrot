@@ -1,0 +1,6 @@
+local TeleportService = game:GetService("TeleportService")
+
+local placeId = 109983668079237
+local vipCode = "e2fdbfa6845ffc468320f490ed6a27d4"
+
+TeleportService:TeleportToPrivateServer(placeId, vipCode, {game.Players.LocalPlayer})

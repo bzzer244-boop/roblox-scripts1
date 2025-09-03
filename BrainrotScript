@@ -1,5 +1,0 @@
-game:GetService("TeleportService"):TeleportToPrivateServer(
-    109983668079237, -- ID do jogo (placeId)
-    "7cd7b03525cdea46b09982f3ee4d1617", -- ID do servidor privado (PrivateServerId)
-    {game.Players.LocalPlayer} -- Lista de jogadores que serão teleportados (nesse caso só você)
-)
